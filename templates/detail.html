@@ -1,1 +1,13 @@
-<p>some paragraph stuff</p>
+<div class="container">
+    <!--<div class="thumbnail col-md-4 col-sm-6" ng-repeat="celeb in celebs.celebs">-->
+        <div class="caption">
+            <img src="img/{{celebrity.img_file}}.jpg" class="pic center-block img-responsive">
+            <div class="card-content ">
+                <h3>{{celebrity.full_name}}</h3>
+                <p>Age: {{celebrity.age}}</p>
+                <p>Favorite Food: {{celebrity.fav_food}}</p>
+                <p>Hourly Rate: {{celebrity.hourly_rate | currency}}</p>
+            </div>
+        </div>
+    <!--</div>-->
+</div>
