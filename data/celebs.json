@@ -1,0 +1,18 @@
+{"celebs": [
+        {"id": 0, "full_name": "Amanda Seyfried", "age": 23, "fav_food": "Apples", "hourly_rate": 34.99, "img_file": "amanda_seyfried" },
+        {"id": 1, "full_name": "Angelina Jolie", "age": 42, "fav_food": "Brad", "hourly_rate": 1000.00, "img_file": "angelina_jolie" },
+        {"id": 2, "full_name": "Audrey Hepburn", "age": 92, "fav_food": "Any Liquid", "hourly_rate": 1.25, "img_file": "audrey_hepburn" },
+        {"id": 3, "full_name": "Emma Stone", "age": 25, "fav_food": "Peaches", "hourly_rate": 584.32, "img_file": "emma_stone" },
+        {"id": 4, "full_name": "Jeananne Goossen", "age": 32, "fav_food": "Chips", "hourly_rate": 12548.23, "img_file": "jeananne_goossen" },
+        {"id": 5, "full_name": "Jennifer Lawrence", "age": 28, "fav_food": "Hot Dogs", "hourly_rate": 1248.93, "img_file": "jennifer_lawrence" },
+        {"id": 6, "full_name": "Jennifer Lopez", "age": 45, "fav_food": "Sadly, Not Me", "hourly_rate": 13548.55, "img_file": "jennifer_lopez" },
+        {"id": 7, "full_name": "Jessica Chastain", "age": 33, "fav_food": "Rockets", "hourly_rate": 799.52, "img_file": "jessica_chastain" },
+        {"id": 8, "full_name": "Katharine Hepburn", "age": 133, "fav_food": "Gobstoppers", "hourly_rate": 89.25, "img_file": "katharine_hepburn" },
+        {"id": 9, "full_name": "Liv Tyler", "age": 34, "fav_food": "Steak", "hourly_rate": 799.36, "img_file": "liv_tyler" },
+        {"id": 10, "full_name": "Miranda Kerr", "age": 44, "fav_food": "Seal Meat", "hourly_rate": 25.76, "img_file": "miranda_kerr" },
+        {"id": 11, "full_name": "Paris Hilton", "age": 12, "fav_food": "Pop Rocks", "hourly_rate": 30.01, "img_file": "paris_hilton" },
+        {"id": 12, "full_name": "Scarlett Johansson", "age": 43, "fav_food": "Spaghetti", "hourly_rate": 12541.01, "img_file": "scarlett_johansson" },
+        {"id": 13, "full_name": "Vanessa Hudgens", "age": 62, "fav_food": "Philly Cheesesteak", "hourly_rate": 13.25, "img_file": "vanessa_hudgens" },
+        {"id": 14, "full_name": "Viola Davis", "age": 22, "fav_food": "Cheez Whiz", "hourly_rate": 89513.25, "img_file": "viola_davis" }
+    ]
+}

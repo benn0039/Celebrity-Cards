@@ -1,0 +1,15 @@
+.card-container{
+    background-color: #eee;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    border-radius: 5px;
+}
+
+.pic {
+    max-height: 40vh;
+    min-height: 40vh;
+}
+
+.caption {
+    overflow: hidden;
+}

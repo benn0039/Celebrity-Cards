@@ -1,0 +1,31 @@
+REQUIREMENTS
+
+Using the Hybrid videos as your guide, create an AngularJS SPA which loads a list of 10 - 15 random celebrites. Clicking the details button under any person's name will switch to the details view and display all the information about the selected celebrity.
+
+[] The main / list view should show the image, the name, and the details button.
+[] The details view should show the image, name, and other three fields.
+
+ 
+
+Data
+
+[X] Create your own JSON file for the celebrity data. Fetch the names and images from http://www.randomlists.com/random-celebrities (Links to an external site.)
+
+Each person in your JSON data needs the following fields
+
+[X] id: a numeric id
+[X] full_name: the person's full name
+[X]  an integer numeric field of your choice
+[X] another string field of your choice
+[X] a field that can be formatted as currency of your choice
+[X] image: a field which holds the name of the image only.
+[X] You will need to download and save your own local copies of the images from the randomlists.com site.
+
+
+Styling
+
+Do NOT use ionic with this app. Use Bootstrap version 3.3.5 for styling.
+
+Use this - http://v4-alpha.getbootstrap.com/components/card/#decks (Links to an external site.) as an example of how to display the list of celebrities in the main view. Note that this is from the new version 4 of Bootstrap. It does not exist in Bootstrap 3. You will have to create your own equivalent to this by using the Bootstrap 3 CSS classes combined with your own HTML.
+
+ 
