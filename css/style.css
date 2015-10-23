@@ -6,10 +6,31 @@
 }
 
 .pic {
-    max-height: 40vh;
-    min-height: 40vh;
+    max-height: 300px;
+    min-height: 300px;
 }
 
 .caption {
     overflow: hidden;
+}
+
+@media screen and (max-width: 1200px) {
+    .detail {
+        max-width: 350px;
+        padding: 1em;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .thumbnail {
+    max-width: 350px;
+    padding: 1em;
+    margin: 0 auto;
+    }
+
+    .card-container {
+        max-width: 390px;
+    }
 }

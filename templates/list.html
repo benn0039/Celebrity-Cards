@@ -2,11 +2,11 @@
     <div class="container card-container">
             <div class="thumbnail col-md-4 col-sm-6" ng-repeat="celeb in celebs.celebs">
                 <div class="caption">
-                <img src="img/{{celeb.img_file}}.jpg" class="pic center-block img-responsive">
-                <div class="card-content ">
-                    <h3>{{celeb.full_name}}</h3>
-                    <p><a class="btn-btn-default" href="#/detail/{{celeb.id}}" role="button">Details...</a></p>
-                </div>
+                    <img ng-src="img/{{celeb.img_file}}.jpg" class="pic center-block img-responsive">
+                    <div class="card-content ">
+                        <h3>{{celeb.full_name}}</h3>
+                        <p><a class="btn btn-primary" href="#/detail/{{celeb.id}}" role="button">Details...</a></p>
+                    </div>
                 </div>
             </div>
     </div>
